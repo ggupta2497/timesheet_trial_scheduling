@@ -1,3 +1,6 @@
+runs:
+  using: 'node20'
+
 name: run main.py
 
 on:
